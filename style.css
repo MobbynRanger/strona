@@ -1,0 +1,48 @@
+html, body{
+    height: 100%;
+    background-color: #F0F0F0;
+    margin: 0;
+
+
+}
+header{
+    height: 10%;
+    text-align: center;
+    background-color: bisque;
+}
+aside{
+    background-color: brown;
+    height: 80%;
+
+    float: left;
+}
+main{
+    background-color: chocolate;
+    height: 80%;
+}
+section{
+    background-color: blueviolet;
+    float :right;
+    height: 80%;
+
+}
+footer{
+    background-color: rgb(88, 51, 51);
+    height: 10%;
+}
+script{
+    text-align: center;
+
+}
+button{
+    color:rgb(0, 0, 0); 
+    box-shadow: 0 3px #222;
+    border-radius: 15px;
+    border: none;
+}
+button:hover{
+    background-color: rgb(107, 107, 111);
+}
+button:active{
+    background-color: blueviolet;
+}
